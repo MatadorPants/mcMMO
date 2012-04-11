@@ -18,6 +18,8 @@ public class ItemChecks {
         case IRON_SWORD:
         case STONE_SWORD:
         case WOOD_SWORD:
+        case 30149:
+        case 30148:
             return true;
 
         default:
@@ -58,6 +60,8 @@ public class ItemChecks {
         case IRON_SPADE:
         case STONE_SPADE:
         case WOOD_SPADE:
+        case 30234:
+        case 30235:
             return true;
 
         default:
@@ -78,6 +82,7 @@ public class ItemChecks {
         case IRON_AXE:
         case STONE_AXE:
         case WOOD_AXE:
+        case 30233:
             return true;
 
         default:
@@ -98,6 +103,8 @@ public class ItemChecks {
         case IRON_PICKAXE:
         case STONE_PICKAXE:
         case WOOD_PICKAXE:
+        case 30234:
+        case 30235:
             return true;
 
         default:
